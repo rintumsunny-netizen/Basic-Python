@@ -14,4 +14,4 @@ file = open("contacts.txt", "r")
 print("📇 Contact List:")
 for line in file:
    print(line.strip())#Inorder to print the data
-file.close()
+file.clrintuose()
